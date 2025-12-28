@@ -227,7 +227,7 @@ const Schedule: React.FC = () => {
             <div className="mt-8 pt-6 border-t border-zinc-800">
               <div className="flex justify-between items-center mb-6 text-sm">
                 <span className="text-zinc-500">Valor Estimado</span>
-                <span className="font-semibold text-white">R$ 450,00</span>
+                <span className="font-semibold text-white">R$ 100,00</span>
               </div>
               <Button 
                 fullWidth 
