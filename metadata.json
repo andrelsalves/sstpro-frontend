@@ -1,0 +1,7 @@
+{
+  "name": "SST Pro",
+  "description": "Plataforma de gestão de Saúde e Segurança do Trabalho (SST) com dashboard analítico e controle de acesso.",
+  "requestFramePermissions": [
+    "notifications"
+  ]
+}
